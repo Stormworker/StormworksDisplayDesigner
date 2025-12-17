@@ -6,6 +6,18 @@ This is a display design assistant app for Stormworks. You can select display si
 
 これはStormworks用のディスプレイデザイン補助アプリです。1×1~9×5までのモニター、そしてHMD、LARGE・SMALL HUDと、すべてのモニター、HUD、HMDに対応しています。
 
+
+# Installation / インストール
+1. Download the latest release from the Releases page.
+2. Extract the files to any folder.
+3. Run `StormworksDisplayDesigner.exe`.
+
+## 日本語
+
+1. Releasesページから最新版をダウンロードします。
+2. 任意のフォルダに展開します。
+3. `StormworksDisplayDesigner.exe` を実行してください。
+
 # How to Use / 使い方
 The basic usage follows what is shown on the application screen.
 From left to right, the buttons are:
@@ -53,7 +65,10 @@ Detailed usage instructions are provided below.
 - **Mouse wheel (hold)**: Pan the canvas
 - **Mouse wheel**: Zoom in / out
 
-## 操作のコツ
+## 操作方法
 
 - **マウスホイール長押し**：画面の移動
 - **マウスホイール回転**：ズームイン／ズームアウト
+
+![How_to_Use](https://github.com/user-attachments/assets/dbb8e70d-fb7d-4fff-b33f-f21a827be3c8)
+
