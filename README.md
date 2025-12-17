@@ -72,3 +72,23 @@ Detailed usage instructions are provided below.
 
 ![How_to_Use](https://github.com/user-attachments/assets/dbb8e70d-fb7d-4fff-b33f-f21a827be3c8)
 
+
+## LISENCE / ライセンス
+
+Copyright (c) 2025 Sy4chi
+
+"StormworksDisplayDesigner" is released under the MIT License.
+
+Credit attribution or notifying the developer when using this tool is appreciated,
+
+but not required.
+
+
+
+Copyright (c) 2025 Sy4chi
+
+「StormworksDisplayDesigner」はMITライセンスのもと公開されております。
+
+本ツールの使用に際してクレジット表記や開発者への報告は任意です。
+
+していただけると嬉しいですが、必須ではありません。
